@@ -5,9 +5,9 @@ A fuzzy control agent to play the Kessler implementation of the Asteroids arcade
 
 To install the required libraries:
 
-pip install kesslergame==1.3.6
-pip install scikit-fuzzy
-pip install EasyGA
+`pip install kesslergame==1.3.6`
+`pip install scikit-fuzzy`
+`pip install EasyGA`
 
 To simulate controllers:
 `python3 scenario_test.py`
