@@ -14,5 +14,9 @@ To simulate controllers:
 
 # See the controller in action!
 Our optimized controller (green) outperforms a controller that simply shoots targets
-https://github.com/bdakhel/Kessler-Game-Controller/assets/90705800/03af748b-b516-433d-80b2-0dead40c8095
+
+
+https://github.com/bdakhel/Kessler-Game-Controller/assets/90705800/a366f914-a2bb-4b89-a6be-642334c71445
+
+
 
